@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "MarkdownPdfConverter": {
+      "commandName": "Project",
+      "commandLineArgs": "-i z:\\markdown-sample.md -o z:\\markdown-sample.pdf"
+    }
+  }
+}
